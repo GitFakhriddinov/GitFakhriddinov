@@ -17,13 +17,17 @@ Most of this lives in private company repos, so the contribution graph shows the
 
 **Stack**
 
-`SQL` `ClickHouse` `PostgreSQL` `dbt` `Airflow` `Airbyte` `Kafka` `Python` `Metabase` `AppsFlyer` `Docker` `Claude / MCP`
+`SQL` `ClickHouse` `PostgreSQL` `Airflow` `Airbyte` `Kafka` `Python` `Metabase` `AppsFlyer` `Docker` `Claude / MCP`
 
 **Public projects**
 
 - [dr-dag](https://github.com/GitFakhriddinov/dr-dag): on-call assistant for Airflow: log triage, LLM root cause, guarded auto-fix PRs, DAG linting
 - [Traffic-control-system](https://github.com/GitFakhriddinov/Traffic-control-system): adaptive traffic-light control with SUMO and reinforcement learning
 
+**Writing**
+
+- ✍️ [On-call assistant that reads failed Airflow logs so your team doesn't have to](https://medium.com/@fbakhtiyorjon/on-call-assistant-that-reads-failed-airflow-logs-so-your-team-doesnt-have-to-dabe32a3c21a): the story behind Dr. Dag (Medium)
+
 **Languages:** Uzbek · Russian · English
 
-📍 Tashkent · [LinkedIn](https://www.linkedin.com/in/f-baxtiyor/)
+📍 Tashkent · [LinkedIn](https://www.linkedin.com/in/f-baxtiyor/) · [Medium](https://medium.com/@fbakhtiyorjon)
